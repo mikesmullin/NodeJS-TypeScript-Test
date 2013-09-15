@@ -1,0 +1,13 @@
+{
+  "name": "TypeScriptTest",
+  "version": "0.0.1",
+  "description": "A test of TypeScript with Node.JS",
+  "main": "static/a.js",
+  "scripts": {
+    "test": "tsc -w precompile/*.ts --out /dev/null",
+    "prestart": "tsc --outDir static/ precompile/*.ts",
+    "start": "node static/a.js"
+  },
+  "author": "Mike Smullin <mike@smullindesign.com>",
+  "license": "GPLv3"
+}
