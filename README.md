@@ -30,3 +30,8 @@ npm start
 
 ## Related Links
 
+- http://www.typescriptlang.org/Content/TypeScript%20Language%20Specification.pdf
+- http://www.typescriptlang.org/Playground/
+- http://hi104.github.io/typescript-playground-on-ace/
+- http://mihailik.blogspot.com/2012/11/debugging-typescript-in-browser.html
+- https://github.com/soywiz/typescript-node-definitions
